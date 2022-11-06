@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/562343738.svg)](https://zenodo.org/badge/latestdoi/562343738)
+
 # grpandplot: An open-source MATLAB tool for drawing box plot and violin plot with automatic multi-way data grouping.
 
 Man Ho Wong, 2022.
@@ -28,7 +30,7 @@ You can download the directory `grpandplot` directly to you computer or install 
 
 ## Usage
 
-See documentation ([grpandplot_doc.mlx](resources/grpandplot_doc.mlx) or [grpandplot_doc.html](resources/grpandplot_doc.html)).
+See documentation ([grpandplot_doc.mlx](resources/grpandplot_doc.mlx) or [grpandplot_doc.pdf](resources/grpandplot_doc.pdf)).
 
 ## License
 
@@ -38,6 +40,6 @@ This project is licensed under [GNU General Public License v3.0](LICENSE).
 
 ## Cite As
 
-Wong, M. H. (2022). grpandplot: An open-source MATLAB tool for drawing box plot and violin plot with automatic multi-way data grouping. (Version 1.0.0) [Computer software].
+Wong, M. H. (2022). grpandplot: An open-source MATLAB tool for drawing box plot and violin plot with automatic multi-way data grouping. (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7295877
 
 

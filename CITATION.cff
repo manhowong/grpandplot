@@ -4,7 +4,7 @@ authors:
   - family-names: Wong
     given-names: Man Ho
     orcid: https://orcid.org/0000-0002-3738-1914
-title: "grpandplot: An open-source MATLAB tool for drawing box plot and violin plot with automatic multi-way data grouping"
+title: "grpandplot: An open-source MATLAB tool for drawing box plot and violin plot with automatic multi-way data grouping."
 version: 1.0.0
-doi: 
+doi: 10.5281/zenodo.7295877
 date-released: 2022-11-05
