@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/562343738.svg)](https://zenodo.org/badge/latestdoi/562343738)
+[![View grpandplot on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/120078-grpandplot)
 
 # grpandplot: An open-source MATLAB tool for drawing box plot and violin plot with automatic multi-way data grouping.
 
