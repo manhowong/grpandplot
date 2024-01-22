@@ -403,11 +403,11 @@ for i = 1:nTLvl
             boxObj(i,j).MarkerColor = 'r';
             boxObj(i,j).BoxWidth = w;
             boxObj(i,j).BoxFaceAlpha = boxAlpha;
-            boxObj(i,j).BoxLineColor = cmap(j,:);
+            boxObj(i,j).BoxEdgeColor = cmap(j,:);
             boxObj(i,j).WhiskerLineColor = cmap(j,:);
             if ~isempty(boxFillC), boxObj(i,j).BoxFaceColor = boxFillC; end
             if ~isempty(boxEdgeC)
-                boxObj(i,j).BoxLineColor = boxEdgeC;
+                boxObj(i,j).BoxEdgeColor = boxEdgeC;
                 boxObj(i,j).WhiskerLineColor = boxEdgeC;
             end
         end
